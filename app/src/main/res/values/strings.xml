@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CONVERTIDOR DE UNIDADES</string>
+    <string name="pantalla2">CELSIUS A FAHRENHEIT</string>
+    <string name="PANTALLA3">FAHRENHEIT A CELSIUS</string>
+    <string name="PANTALLA4">CELSIUS A KELVIN</string>
+    <string name="PANTALLA5">KELVIN A CELSIUS</string>
+    <string name="PANTALLA6">CENTIMETRO A METRO</string>
+    <string name="PANTALLA7">METRO A CENTIMETRO</string>
+    <string name="PANTALLA8">CENTIMETRO A PULGADA</string>
+    <string name="PANTALL9">PULGADA A CENTIMETRO</string>
+    <string name="TEMPERATURA">UNIDADES DE TEMPERATURA</string>
+    <string name="DISTANCIA">UNIDADES DE DISTANCIA </string>
+    <string name="CALCULAR">CALCULAR</string>
+    <string name="UNIDADES">UNIDADES</string>
+    <string name="RESULTADO">RESULTADO</string>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">UNITS CONVERTER</string>
+    <string name="pantalla2">CELSIUS TO FAHRENHEIT</string>
+    <string name="PANTALLA3">FAHRENHEIT TO CELSIUS</string>
+    <string name="PANTALLA4">CELSIUS TO KELVIN</string>
+    <string name="PANTALLA5">KELVIN TO CELSIUS</string>
+    <string name="PANTALLA6">CENTIMETER TO METRO</string>
+    <string name="PANTALLA7">METRO TO CENTIMETER</string>
+    <string name="PANTALLA8">CENTIMETER TO PULGADA</string>
+    <string name="PANTALL9">PULGADA TO CENTIMETER</string>
+    <string name="TEMPERATURA">UNITS  TEMPERATURE</string>
+    <string name="DISTANCIA">UNITS  DISTANCE </string>
+    <string name="CALCULAR">CALCULATE</string>
+    <string name="UNIDADES">UNITS</string>
+    <string name="RESULTADO">RESULT</string>
+</resources>
